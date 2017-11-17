@@ -18,3 +18,7 @@ cocos run -p web
 
 ## TODO优化
 - 资源使用batchnode渲染
+
+## 效果预览
+  ![](./screenshot/effect.gif)
+
